@@ -60,12 +60,12 @@ How to Run the Project
 
 1. Clone the Repository
 
-  git clone https://github.com/your-repository-link.git
-  cd your-repository-folder
+   git clone https://github.com/your-repository-link.git
+   cd your-repository-folder
 
-2. Install Dependencies
+3. Install Dependencies
 
-  pip install pandas numpy matplotlib seaborn scikit-learn
+   pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Update the File Path
 
